@@ -9,6 +9,6 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Canvas Name="Canvas" HorizontalAlignment="Center" Height="720" VerticalAlignment="Center" Width="1200" Background="Black"></Canvas>
+        <Canvas Name="Canvas" HorizontalAlignment="Center" Height="720" VerticalAlignment="Center" Width="1280" Background="Black"></Canvas>
     </Grid>
 </Page>
